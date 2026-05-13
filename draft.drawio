@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Jog6H_k3K2KXCtHgDv1u">
-    <mxGraphModel dx="3003" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           <mxGeometry height="40" width="40" x="1011.5" y="599.37" as="geometry" />
         </mxCell>
         <mxCell id="rImKCfxf0R7zmKmlunJt-66" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#8B5CF6;fillColor=#7C3AED;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;" value="" vertex="1">
-          <mxGeometry height="52" width="38" x="1013.5" y="818.31" as="geometry" />
+          <mxGeometry height="52" width="38" x="1011.5" y="814.8699999999999" as="geometry" />
         </mxCell>
         <mxCell id="rImKCfxf0R7zmKmlunJt-67" parent="1" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE3LjMyOTk5OTkyMzcwNjA1NSIgaGVpZ2h0PSIxOS42MTAwMDA2MTAzNTE1NjIiIHZpZXdCb3g9IjAgMCAxNy4zMjk5OTk5MjM3MDYwNTUgMTkuNjEwMDAwNjEwMzUxNTYyIiBzdHlsZT0iY29sb3Itc2NoZW1lOiBsaWdodCBkYXJrOyI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3QwIHsgZmlsbDogbGlnaHQtZGFyayhyZ2IoMjIsIDE2MywgNzQpLCByZ2IoNjYsIDEzMywgMjQ0KSk7IH0gLnN0MSB7IGZpbGw6IGxpZ2h0LWRhcmsocmdiKDIyLCAxNjMsIDc0KSwgcmdiKDEwMiwgMTU3LCAyNDYpKTsgfSAuc3QyIHsgZmlsbDogbGlnaHQtZGFyayhyZ2IoMjIsIDE2MywgNzQpLCByZ2IoMTc0LCAyMDMsIDI1MCkpOyB9IDwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEyLjE4IDcuOThMMTEgNy4yOWwtMy41MiA2LjEgMS4xOC42OCAzLjUyLTIuMDN6IiBmaWxsPSIjNDI4NWY0Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTYuMzIgMTIuNzJsMy41My02LjA5LTEuMTktLjY5LTMuNTIgMi4wNHY0LjA2eiIgZmlsbD0iIzY2OWRmNiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0zLjc1IDcuOThMMCA1LjgxdjkuMmw3Ljk3IDQuNnYtNC4zM2wtNC4yMi0yLjQ0em05LjEzLTEuMmwzLjc2LTIuMTdMOC42NiAwIC42OCA0LjYxbDMuNzYgMi4xNyA0LjIyLTIuNDR6TTkuMzUgMTkuNjFsNy45OC00LjZ2LTkuMmwtMy43NiAyLjE3djQuODZsLTQuMjIgMi40NHoiIGZpbGw9IiNhZWNiZmEiLz4mI3hhOzwvc3ZnPg==;" value="" vertex="1">
           <mxGeometry height="49" width="41.65" x="1438.35" y="213" as="geometry" />
@@ -287,10 +287,10 @@
           <mxGeometry height="30" width="212.5" x="1067.1" y="604.37" as="geometry" />
         </mxCell>
         <mxCell id="rImKCfxf0R7zmKmlunJt-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px; color: rgb(17, 24, 39);&quot;&gt;&lt;b style=&quot;&quot;&gt;Security &amp;amp; Access Control&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="232.5" x="1064.6" y="829.99" as="geometry" />
+          <mxGeometry height="30" width="237.1" x="1064.81" y="830" as="geometry" />
         </mxCell>
         <mxCell id="rImKCfxf0R7zmKmlunJt-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#1F2937;labelBackgroundColor=#F5F3FF;" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px; line-height: 150%;&quot;&gt;&lt;b&gt;JWT Authentication&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px; line-height: 150%;&quot;&gt;&lt;b&gt;RBAC Authorization&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px; line-height: 150%;&quot;&gt;&lt;b&gt;Rate Limiting&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px; line-height: 150%;&quot;&gt;&lt;b&gt;Replay Protection&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px; line-height: 150%;&quot;&gt;&lt;b&gt;Unified Error Handling&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="30" width="215.8" x="1035" y="921.87" as="geometry" />
+          <mxGeometry height="30" width="215.8" x="1040" y="921.87" as="geometry" />
         </mxCell>
         <mxCell id="rImKCfxf0R7zmKmlunJt-86" parent="1" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjQxNiIgaGVpZ2h0PSIzNjIuMjAwMDEyMjA3MDMxMjUiIHZpZXdCb3g9IjAgMCA0MTYgMzYyLjIwMDAxMjIwNzAzMTI1IiBzdHlsZT0iY29sb3Itc2NoZW1lOiBsaWdodCBkYXJrOyI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3QwIHsgZmlsbDogbGlnaHQtZGFyayhyZ2IoMjIsIDE2MywgNzQpLCByZ2IoNjYsIDEzMywgMjQ0KSk7IH0gLnN0MSB7IGZpbGw6IGxpZ2h0LWRhcmsocmdiKDIyLCAxNjMsIDc0KSwgcmdiKDEwMiwgMTU3LCAyNDYpKTsgfSAuc3QyIHsgZmlsbDogbGlnaHQtZGFyayhyZ2IoMjIsIDE2MywgNzQpLCByZ2IoMTc0LCAyMDMsIDI1MCkpOyB9IDwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTk2LjAzIDBMMCAxNjcuMTdoMTkwLjY3TDI4Ny45NCAweiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yODcuNTkgMzYyLjJsLTk1LjY4LTE2Ny4xN0gwTDk1LjY4IDM2Mi4yeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00MTYgMTgxLjFMMzIwIDEzLjMxIDIyMy44OCAxODEuMSAzMjAgMzQ4Ljl6Ii8+JiN4YTs8L3N2Zz4=;" value="" vertex="1">
           <mxGeometry height="35" width="41.18" x="1438.3500000000001" y="327.5" as="geometry" />
